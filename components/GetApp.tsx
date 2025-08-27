@@ -24,7 +24,7 @@ const GetApp = () => {
             <Button
               type="button"
               title="Play Store"
-              icon="/android.svg"
+              icon="/android.png"
               variant="btn_dark_green_outline"
               full
             />
