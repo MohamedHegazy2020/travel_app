@@ -68,6 +68,6 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) to view the app.
 
 
----
+------------------------------------------------------------------------------------
 
 Built with ❤️ by [Mohamed Hegazy](https://github.com/mohamed-hegazy219427), a passionate developer who loves building fast, secure, and scalable web applications.
