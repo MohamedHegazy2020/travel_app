@@ -67,10 +67,7 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) to view the app.
 
-## Deployment
-
-Deploy easily on [Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
 
 ---
 
-Built with ❤️ by [Mohamed Hegazy]
+Built with ❤️ by [Mohamed Hegazy](https://github.com/mohamed-hegazy219427), a passionate developer who loves building fast, secure, and scalable web applications.
